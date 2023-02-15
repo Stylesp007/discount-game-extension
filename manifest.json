@@ -1,0 +1,11 @@
+{
+  "name" : "Free games on Pc",
+  "version":"1.0.0",
+  "description": "This is an extention to see the free games live",
+  "manifest_version": 3,
+  "author":"Pernell Styles",
+  "action": {
+    "default_popup": "index.html",
+    "default_title":"Free games on Pc"
+  }
+}
